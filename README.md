@@ -1,3 +1,7 @@
+# Solana Escrow
+
+Rust Smart Contract to transfer token to escrow and withdraw token from escrow.
+
 ### Environment Setup
 1. Install Rust from https://rustup.rs/
 2. Install Solana from https://docs.solana.com/cli/install-solana-cli-tools#use-solanas-install-tool
